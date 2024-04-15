@@ -1,4 +1,4 @@
-# Resume-Identification-using-LLM
+# Resume-Identification-using-RAG-LLM
 # Problem Statement: Find out best 5 resume for appropriate skill set from list of resumes.
 # Solution:
  Using Open AI model and vector databases it is solved. I took 50 resume pdf files and first read all files using Pypdf parser.
